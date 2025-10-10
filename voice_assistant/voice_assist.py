@@ -23,7 +23,9 @@ def wish_me():
     elif 12 <= hour < 18:
         speak("Good Afternoon!")
     else:
+        
         speak("Good Evening!")
+
 speak("I am your voice assistant. How can I help you today?")
 
 def take_command():
@@ -79,7 +81,7 @@ if __name__ == "__main__":
             webbrowser.open("instagram.com")         
 
         elif 'open whatsapp' in query:
-            speak("Opening whatsappl.")
+            speak("Opening whatsapp.")
             webbrowser.open("whatsapp.com") 
   
         elif 'the time' in query:
@@ -88,7 +90,7 @@ if __name__ == "__main__":
 
         elif 'open code' in query:
             speak("Opening VS Code.")
-            code_path = "C:\\Users\\YourUsername\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe" # Replace with your VS Code path
+            code_path = "C:\\Users\\nikhi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe" # Replace with your VS Code path
             os.startfile(code_path)
 
         elif 'exit' in query or 'quit' in query or 'bye' in query:
