@@ -20,10 +20,20 @@ A simple voice assistant built with Python that can perform various tasks based 
         git clone
 
 ## ScreenShots         
-![screenshot]()
-![screenshot]()
-![screenshot]()
-![screenshot]()
-![screenshot]()
-![screenshot]()
+![app screenshot](screenshot/1.png) 
+
+
+![app screenshot](screenshot/2.png)
+
+
+![app screenshot](screenshots/3.png)
+
+
+![app screenshot](screenshots/4.png)
+
+
+![app screenshot](screenshots/5.png)
+
+
+![app screenshot](screenshots/6.png)
 
