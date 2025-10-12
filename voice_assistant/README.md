@@ -16,24 +16,24 @@ A simple voice assistant built with Python that can perform various tasks based 
    ```bash
    git clone
 
-## How TO Run App 
-        git clone
+## How TO Copy Project
+        git clone https://github.com/Nikhilgaikwad92/OIBSIP.git
 
 ## ScreenShots         
-![app screenshot](screenshot/1.png) 
+![ screenshots](/screenshots/1.png) 
 
 
-![app screenshot](screenshot/2.png)
+![screenshot](/screenshots/2.png)
 
 
-![app screenshot](screenshots/3.png)
+![screenshot](/screenshots/3.png)
 
 
-![app screenshot](screenshots/4.png)
+![screenshot](screenshots/4.png)
 
 
-![app screenshot](screenshots/5.png)
+![screenshot](screenshots/5.png)
 
 
-![app screenshot](screenshots/6.png)
+![screenshot](screenshots/6.png)
 

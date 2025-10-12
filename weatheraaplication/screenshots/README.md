@@ -1,4 +1,4 @@
-WEATHER APPLICATION     
+## WEATHER APPLICATION     
 =======================
 =======================
 A simple weather application that provides current weather information for a specified location using the OpenWeatherMap API.
@@ -14,24 +14,25 @@ Technologies Used
 - Requests library for API calls
 - JSON for data handling
 - Command-line interface
-Installation
+
 -----------------------
-1. Clone the repository:
-   git clone
+## How To Copy Project 
+
+   git clone https://github.com/Nikhilgaikwad92/OIBSIP.git
 
 ## screenshots 
-![](screenshots/1.png)
+![screenshots](/screenshots/1.png)
 
-![app screenshot](screenshots/2.png)
+![ screenshots](/screenshots/2.png)
 
-![app screenshot](screenshots/3.png)
+![ screenshots](/screenshots/3.png)
 
-![app screenshot](screenshots/4.png)
+![screenshots](/screenshots/4.png)
 
-![app screenshot](screenshots/5.png)
+![ screenshots](/screenshots/5.png)
 
-![app screenshot](screenshots/6.png)
+![screenshots](/screenshots/6.png)
 
-![app screenshot](screenshots/7.png)
+![screenshots](/screenshots/7.png)
 
 

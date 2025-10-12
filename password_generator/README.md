@@ -4,32 +4,37 @@
    Password generator app displaying a newly generated password in the output field. The interface includes checkboxes for password criteria and a button to generate the password. The environment is a desktop application window with a functional and straightforward design. Visible text: Password Generator, Password Length, Include Uppercase, Include Lowercase, Include Numbers, Include Symbols, Generate Password, Generated Password.
 
 
-## How TO Run App
-   This can be run Through , 
-            
-            python filename.py 
+## How TO Copy Project
+   git clone https://github.com/Nikhilgaikwad92/OIBSIP.git
+    
 
 
 ## ScreenShots
-![app screenshot](/screenshots/1.png)
+![ screenshot](/screenshots/1.png)
 
 
-![aap screenshots](/screenshots/2.png)
+![screenshots](/screenshots/2.png)
 
 
-![app screenshots](/screenshots/3.png)
+![ screenshots](/screenshots/3.png)
 
 
-![app screenshot](/screenshots/4.png)
+![screenshot](/screenshots/4.png)
 
 
-![app screenshot](/screenshots/5.png) 
+![screenshot](/screenshots/5.png) 
 
 
-![app screenshot](/screenshots/6.png)
+![screenshot](/screenshots/6.png)
 
 
-![app screenshot](/screenshots/7.png)  
+![ screenshot](/screenshots/7.png)  
+
+
+
+
+
+
 
 
 
