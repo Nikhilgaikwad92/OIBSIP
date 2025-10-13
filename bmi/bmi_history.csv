@@ -1,0 +1,20 @@
+Date,Name,Age,Height (m),Weight (kg),BMI,Category
+2025-09-22 11:13,nikhil,23,165.0,55.0,0.0,Underweight
+2025-09-22 11:13,nikhil,23,165.0,40.0,0.0,Underweight
+2025-09-22 11:13,nikhil,23,165.0,40.0,0.0,Underweight
+2025-09-22 11:14,anosh,22,165.0,100.0,0.0,Underweight
+2025-09-22 11:14,anosh,22,165.0,15.0,0.0,Underweight
+2025-09-22 11:14,anosh,22,165.0,15.0,0.0,Underweight
+2025-09-22 11:14,anosh,22,165.0,15.0,0.0,Underweight
+2025-09-27 17:22,nikhil,22,165.0,58.0,0.0,Underweight
+2025-09-27 17:22,nikhil,17,165.0,58.0,0.0,Underweight
+2025-09-27 17:23,nikhil,17,165.0,60.0,0.0,Underweight
+2025-09-30 11:18,anosh,23,155.0,50.0,0.0,Underweight
+2025-09-30 11:19,anosh,23,155.0,80.0,0.0,Underweight
+2025-09-30 11:20,anosh,23,155.0,80.0,0.0,Underweight
+2025-10-01 17:41,aj,23,165.0,155.0,0.01,Underweight
+2025-10-13 11:36,anosh,25,165.0,55.0,0.0,Underweight
+2025-10-13 06:14 UTC,rahul,18,455.0,65.0,0.0,Underweight
+2025-10-13 07:23 UTC,anil,23,2.0,56.0,14.0,Underweight
+2025-10-13 07:26 UTC,akash,15,2.0,50.0,12.5,Underweight
+2025-10-13 07:27 UTC,yash,18,3.0,40.0,4.44,Underweight
