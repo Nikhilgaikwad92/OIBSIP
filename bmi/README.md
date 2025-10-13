@@ -6,7 +6,7 @@ This is a simple Body Mass Index (BMI) calculator implemented in Python. The BMI
 - Provide BMI category based on the calculated BMI value.
 ### Usage
 1. Clone the repository or download the script.
-2. Run the script using Python 3.x.
+2. Run the script using Python 3.13.
 3. Input your weight in kilograms and height in meters when prompted.
 4. The script will output your BMI value and the corresponding BMI category.
 ### Example
